@@ -5,11 +5,11 @@ investigation, and incident response workflows using enterprise-style tooling.
 
 ## Table of Contents
 
-- [Chapter 1 — Project Analysis](#chapter-1--project-analysis)
-  - 1.1 Introduction
-  - 1.2 Lab Objectives
-  - 1.3 Lab Scope
-  - 1.4 Lab Topology
+- [Chapter 1 — Project Analysis](chapter-01-project-analysis/)
+  - [1.1 Introduction](chapter-01-project-analysis/01-introduction.md)
+  - [1.2 Lab Objectives](chapter-01-project-analysis/02-lab-objectives.md)
+  - [1.3 Lab Scope](chapter-01-project-analysis/03-lab-scope.md)
+  - [1.4 Lab Topology](chapter-01-project-analysis/04-lab-topology.md)
 
 - [Chapter 2 — Lab Foundations](#chapter-2--lab-foundations)
   - 2.1 Host Preparation & Resources
