@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>SOC Analyst Projects – BluElliot</title>
+  <title>SOC Projects - BluElliot</title>
   <style>
     body {
       background: #111;
@@ -10,14 +10,21 @@
       font-family: Arial, sans-serif;
       padding: 2rem;
     }
-    h1 { color: #00ffcc; }
+    h1 {
+      color: #00ffcc;
+    }
     .project {
       margin-bottom: 2rem;
-      border-bottom: 1px solid #333;
       padding-bottom: 1rem;
+      border-bottom: 1px solid #333;
     }
-    a { color: #66ccff; text-decoration: none; }
-    a:hover { text-decoration: underline; }
+    a {
+      color: #66ccff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
   </style>
 </head>
 <body>
@@ -25,22 +32,20 @@
 
   <div class="project">
     <h2>🔍 Log Analysis with ELK</h2>
-    <p>Used the ELK Stack to detect suspicious IP addresses in server logs.</p>
+    <p>Used ELK Stack to detect suspicious IPs from Apache logs.</p>
     <a href="#">View Project</a>
   </div>
 
   <div class="project">
     <h2>🛡️ Threat Intel Feed Parser</h2>
-    <p>Script that ingests threat intel feeds and flags IOCs against internal logs.</p>
+    <p>Script that processes threat intel feeds and compares IOCs to logs.</p>
     <a href="#">View Project</a>
   </div>
 
   <div class="project">
-    <h2>📊 SIEM Alert Tuner</h2>
-    <p>Reduced false positives by tuning Splunk rules and creating correlation searches.</p>
+    <h2>📊 SIEM Tuning & False Positives</h2>
+    <p>Reduced false positives in Splunk using correlation rules and custom queries.</p>
     <a href="#">View Project</a>
   </div>
-
 </body>
 </html>
-
