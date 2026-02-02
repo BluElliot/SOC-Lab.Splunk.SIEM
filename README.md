@@ -3,6 +3,9 @@ SOC-focused home lab designed to apply and connect core concepts from Network an
 The lab simulates an enterprise environment with centralized monitoring, endpoint telemetry, and detection-driven analysis using Splunk.
 
 The uploaded pdf contains the complete walkthrough.
+📄 **Full project report (PDF):**  
+[Download – Creating a Home SOC Lab](SOC%20Lab.pdf)
+
 
 **What Was Built**
 - Virtualized Windows and Linux lab environment
